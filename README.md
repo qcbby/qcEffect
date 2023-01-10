@@ -1,6 +1,7 @@
 
-功能
+Progress of plug-in functionality 
+⬇⬇⬇
 
-已完成：MOTD 给钟 进服提示
+Completed:MOTD,clock,Join
 
-未完成：tpa tpr warp home 
+Unfinished:tpa,tpr,home,warp ...
