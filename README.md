@@ -2,7 +2,7 @@
 <html>
 
 <body>
-<a>English  </a><a href="README.md">简体中文</a>
+<a>English  </a><a href="ch_CN.md">简体中文</a>
 <body>
 
 <body>
