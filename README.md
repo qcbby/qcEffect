@@ -1,2 +1,6 @@
-# qcEffect-
-Multi-function script plug-in based on liteloaderbds 
+
+功能
+
+MOTD     √
+给钟      √
+进服提示   √
