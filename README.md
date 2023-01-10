@@ -11,6 +11,10 @@
 <p>Function:</p>
 <table>
 <tr>
+  <td>名称</td>
+  <td>Schedule</td>
+</tr>
+<tr>
   <td>clock</td>
   <td>√</td>
 </tr>
@@ -40,7 +44,7 @@
 </tr>
 <tr>
   <td>More features </td>
-  <td>×</td>
+  <td></td>
 </tr>
 </table>
 
