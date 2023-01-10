@@ -3,16 +3,15 @@
 <body>
 
 <a>English </a><a href="README.md">简体中文</a>
-<h4>Function:</h4>
+<p4>Function:</p4>
 <table>
 <tr>
   <td>clock</td>
   <td>√</td>
 </tr>
 <tr>
-  <td>400</td>
-  <td>500</td>
-  <td>600</td>
+  <td>tpa</td>
+  <td>×</td>
 </tr>
 </table>
 
