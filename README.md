@@ -10,10 +10,6 @@
   <td>√</td>
 </tr>
 <tr>
-  <td>tpa</td>
-  <td>×</td>
-</tr>
-<tr>
   <td>MOTO</td>
   <td>√</td>
 </tr>
@@ -21,19 +17,21 @@
   <td>Join</td>
   <td>√</td>
 </tr>
-</table>
-
-<h4>这个表格没有边框:</h4>
-<table border="0">
 <tr>
-  <td>100</td>
-  <td>200</td>
-  <td>300</td>
+  <td>tpa</td>
+  <td>×</td>
 </tr>
 <tr>
-  <td>400</td>
-  <td>500</td>
-  <td>600</td>
+  <td>tpr</td>
+  <td>×</td>
+</tr>
+<tr>
+  <td>home</td>
+  <td>×</td>
+</tr>
+<tr>
+  <td>warp</td>
+  <td>×</td>
 </tr>
 </table>
 
