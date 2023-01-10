@@ -11,7 +11,7 @@
 <p>Function:</p>
 <table>
 <tr>
-  <td>名称</td>
+  <td>Name</td>
   <td>Schedule</td>
 </tr>
 <tr>
