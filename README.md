@@ -2,11 +2,11 @@
 <html>
 
 <body>
-<a2>English  </a2><a2 href="README.md">简体中文</a2>
+<a>English  </a><a href="README.md">简体中文</a>
 <body>
 
 <body>
-<h1>Introduce</h1>
+<h2>Introduce</h2>
 <p>QcEffect is a multifunctional plug-in developed based on LiteLoaderBDS </p>
 <p>Function:</p>
 <table>
