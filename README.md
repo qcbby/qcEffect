@@ -38,6 +38,10 @@
   <td>warp</td>
   <td>×</td>
 </tr>
+<tr>
+  <td>More features </td>
+  <td>×</td>
+</tr>
 </table>
 
 </body>
