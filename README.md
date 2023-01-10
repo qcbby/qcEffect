@@ -1,6 +1,5 @@
 
-Progress of plug-in functionality 
-⬇⬇⬇
+Progress of plug-in functionality⬇⬇
 
 Completed:MOTD,clock,Join
 
