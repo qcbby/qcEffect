@@ -3,6 +3,8 @@
 <body>
 
 <a>English </a><a href="README.md">简体中文</a>
+<h>Introduce</h>
+<p>QcEffect is a multifunctional plug-in developed based on LiteLoaderBDS </p>
 <p>Function:</p>
 <table>
 <tr>
