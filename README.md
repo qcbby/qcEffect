@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html>
 <body>
-<h1>Function of plug-in </h1>
-<p>MOTO √</p>
-<p>clock √</p>
+
+<a href="README.md">这是一个链接使用了 href 属性</a>
+
 </body>
 </html>
