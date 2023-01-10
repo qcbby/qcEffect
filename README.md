@@ -13,6 +13,14 @@
   <td>tpa</td>
   <td>×</td>
 </tr>
+<tr>
+  <td>MOTO</td>
+  <td>√</td>
+</tr>
+<tr>
+  <td>Join</td>
+  <td>√</td>
+</tr>
 </table>
 
 <h4>这个表格没有边框:</h4>
