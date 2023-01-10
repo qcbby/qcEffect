@@ -3,7 +3,7 @@
 <body>
 
 <a>English </a><a href="README.md">简体中文</a>
-<p4>Function:</p4>
+<p>Function:</p>
 <table>
 <tr>
   <td>clock</td>
