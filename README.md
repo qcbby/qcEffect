@@ -50,6 +50,6 @@
 
 </body>
 <body>
-<p2>Plugin Installation Tutorial </p2>
+<h2>Plugin Installation Tutorial </h2>
 </body>
 </html>
