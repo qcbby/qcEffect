@@ -49,4 +49,7 @@
 </table>
 
 </body>
+<body>
+<p2>Plugin Installation Tutorial </p2>
+</body>
 </html>
