@@ -7,7 +7,7 @@
 
 <body>
 <h2>Introduce</h2>
-<p>QcEffect is a multifunctional plug-in developed based on LiteLoaderBDS </p>
+<p>qcEffect is a multifunctional plug-in developed based on LiteLoaderBDS（LLSE） </p>
 <p>Function:</p>
 <table>
 <tr>
