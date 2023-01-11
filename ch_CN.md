@@ -6,7 +6,7 @@
 <body>
 
 <body>
-<h2>Introduce</h2>
+<h2>介绍</h2>
 <p>qcEffect是基于LiteLoaderBDS（LLSE）开发的多功能插件 </p>
 <p>功能:</p>
 <table>
