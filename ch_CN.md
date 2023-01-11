@@ -51,6 +51,7 @@
 </body>
 <body>
 <h2>插件安装教程</h2>
+<p>把下载的“qcEffect.js”放到Plugin/目录下</p>
 </body>
 </html>
 
