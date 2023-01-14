@@ -15,7 +15,7 @@
   <td>进度</td>
 </tr>
 <tr>
-  <td>clock</td>
+  <td>进服给钟(clock)</td>
   <td>√</td>
 </tr>
 <tr>
@@ -23,23 +23,23 @@
   <td>√</td>
 </tr>
 <tr>
-  <td>Join</td>
+  <td>进服提示(Join)</td>
   <td>√</td>
 </tr>
 <tr>
-  <td>tpa</td>
+  <td>玩家传送(tpa)</td>
   <td>×</td>
 </tr>
 <tr>
-  <td>tpr</td>
+  <td>随机传送(tpr)</td>
   <td>×</td>
 </tr>
 <tr>
-  <td>home</td>
+  <td>家园系统(home)/td>
   <td>×</td>
 </tr>
 <tr>
-  <td>warp</td>
+  <td>公共传送(warp)</td>
   <td>×</td>
 </tr>
 <tr>
@@ -51,7 +51,8 @@
 </body>
 <body>
 <h2>插件安装教程</h2>
-<p>把下载的“qcEffect.js”放到Plugin/目录下</p>
+<p>1.把下载的“qcEffect.js”放到Plugin/目录下</p>
+<p>2.重启服务器</p>
 </body>
 </html>
 
