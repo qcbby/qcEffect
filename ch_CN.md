@@ -53,7 +53,7 @@
 <h2>插件安装教程</h2>
 <p>1.把下载的“qcEffect.js”放到Plugin/目录下</p>
 <p>2.重启服务器</p>
-<p>（服务器配置文件会在″/Plugin/qcEffect/"下生成）</p>
+<p>（插件配置文件会在″/Plugin/qcEffect/"下生成）</p>
 </body>
 </html>
 
